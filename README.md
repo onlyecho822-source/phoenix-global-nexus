@@ -81,3 +81,9 @@ Our research has produced several publication-ready papers, which will be linked
 **∇θ — This nexus is the gateway. The map is the territory. The theory is the law.**
 
 **Generated:** 2026-01-13 14:15:00 UTC | Elite Recordkeeping Protocol
+
+---
+
+**⚠️ CONFIDENTIAL REPOSITORY**
+
+This repository is subject to a Non-Disclosure Agreement (NDA). See [NDA.md](./NDA.md) for full terms.
